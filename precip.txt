@@ -1,1 +1,4 @@
 Precipitation comes in many forms
+Rain: liquid drops from sky
+Snow
+test test
